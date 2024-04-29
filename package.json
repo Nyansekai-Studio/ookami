@@ -1,0 +1,27 @@
+{
+  "name": "@nyansekaistudio/ookami",
+  "version": "0.0.1-alpha.1",
+  "description": "An API wrapper for Kitsu, made simple.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.60.1",
+    "@typescript-eslint/parser": "^5.60.1",
+    "eslint": "^8.43.0",
+    "typescript": "^5.1.3"
+  },
+  "author": "Nyansekai Studio",
+  "contributors": [
+    "Mirage Aegis <mirage@nyansekaistudio.com>",
+    "Splitzy <zero@nyansekaistudio.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nyansekai-Studio/ookami"
+  },
+  "license": "MIT"
+}
